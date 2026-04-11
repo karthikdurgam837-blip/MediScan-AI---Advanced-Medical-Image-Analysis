@@ -1,0 +1,5 @@
+{
+  "name": "MediScan AI - Advanced Medical Image Analysis",
+  "description": "An industry-grade AI system for analyzing medical images (X-rays, MRIs) to assist in disease detection and diagnosis using deep learning and Gemini Vision.",
+  "requestFramePermissions": []
+}
